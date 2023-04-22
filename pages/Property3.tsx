@@ -45,10 +45,10 @@ const Property1 = () => {
                 <span>
                   <HiOutlineMapPin size={20} />
                 </span>
-                Chennai, India
+                Chennai, Tamil Nadu, India
               </p>
               <p className="text-[#228B22] text-2xl mt-1.5">
-                <span>Rs.15000</span>
+                <span>Rs.45000</span>
               </p>
             </div>
             <ul className="flex flex-col">
@@ -262,7 +262,7 @@ const Property1 = () => {
                         <span>Extra Charges for AC</span>
                       </div>
                       <div className="text-md font-bold">
-                        <span>Extra Charges for AC Rs. 50 per Unit</span>
+                        <span>Extra Charges for AC Rs. 10 per Unit</span>
                       </div>
                     </div>
                   </div>
@@ -275,7 +275,7 @@ const Property1 = () => {
                         <span>Booking Charges</span>
                       </div>
                       <div className="text-md font-bold">
-                        <span>Rs.5000</span>
+                        <span>Rs.3500</span>
                       </div>
                     </div>
                   </div>
@@ -295,7 +295,7 @@ const Property1 = () => {
                         <span>Property In-Charge</span>
                       </div>
                       <div className="text-md font-bold">
-                        <span>Mr Mehul Kumar</span>
+                        <span>Mr Pravin Khapra</span>
                       </div>
                     </div>
                   </div>
@@ -308,7 +308,7 @@ const Property1 = () => {
                         <span>Phone Number</span>
                       </div>
                       <div className="text-md font-bold">
-                        <span>+91 7011873210</span>
+                        <span>+91 9200000000</span>
                       </div>
                     </div>
                   </div>
@@ -317,7 +317,7 @@ const Property1 = () => {
               <li className="bg-white drop-shadow-xl rounded-lg flex justify-between text-[30px] font-bold py-[10px] px-[15px] my-[10px]">
                 <span>Rent</span>
                 <div className="text-[#228B22]">
-                  <span>Rs.15000</span>
+                  <span>Rs.45000</span>
                 </div>
               </li>
             </ul>
