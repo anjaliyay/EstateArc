@@ -1,11 +1,11 @@
 
-# OneRoof
+# EstateArc
 
-OneRoof is a modern and elegant real estate website that allows users to easily search and filter properties by name. The website is built using Next.js, Typescript, Tailwind CSS, and Sanity CMS for content management, ensuring a seamless user experience.
+EstateArc is a modern and elegant real estate website that allows users to easily search and filter properties by name. The website is built using Next.js, Typescript, Tailwind CSS, and Sanity CMS for content management, ensuring a seamless user experience.
 
 Each property has its own dedicated page, which includes detailed information about the property, including photos, location on a Google Map, and all relevant property details divided into sections. The website's intuitive UI ensures that users can easily find the information they need, whether they are browsing on a desktop or mobile device.
 
-OneRoof's backend is powered by Sanity CMS, which makes it easy for administrators to manage and update the website's content. With its user-friendly interface, administrators can quickly add or edit property listings, update property details, and manage user accounts.
+EstateArc's backend is powered by Sanity CMS, which makes it easy for administrators to manage and update the website's content. With its user-friendly interface, administrators can quickly add or edit property listings, update property details, and manage user accounts.
 
 
 ## Deployment 
