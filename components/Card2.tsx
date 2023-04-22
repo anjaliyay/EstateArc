@@ -22,7 +22,7 @@ const Card2 = () => {
             <ul className="flex flex-col">
               <li className="flex justify-between py-[1px]">
                 <span>Distance</span>
-                <span>1km</span>
+                <span>1.5km</span>
               </li>
               <li className="flex justify-between py-[1px]">
                 <span>Rooms</span>
@@ -34,7 +34,7 @@ const Card2 = () => {
               </li>
               <li className="flex justify-between text-[22px] font-bold py-[1px]">
                 <span>Rent</span>
-                <span className="text-green-600">15k</span>
+                <span className="text-green-600">35k</span>
               </li>
             </ul>
           </div>
