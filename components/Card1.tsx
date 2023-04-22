@@ -17,16 +17,16 @@ const Card1 = () => {
             <h3 className="text-[20px] font-bold mt-[10px]">Property 1</h3>
             <p className="flex mb-[10px]">
               <HiOutlineMapPin size={20} />
-              Chennai, India
+              Chennai, Tamil Nadu, India
             </p>
             <ul className="flex flex-col">
               <li className="flex justify-between py-[1px]">
                 <span>Distance</span>
-                <span>1km</span>
+                <span>2km</span>
               </li>
               <li className="flex justify-between py-[1px]">
                 <span>Rooms</span>
-                <span>3</span>
+                <span>5</span>
               </li>
               <li className="flex justify-between py-[1px]">
                 <span>Gender</span>
@@ -34,7 +34,7 @@ const Card1 = () => {
               </li>
               <li className="flex justify-between text-[22px] font-bold py-[1px]">
                 <span>Rent</span>
-                <span className="text-green-600">15k</span>
+                <span className="text-green-600">50k</span>
               </li>
             </ul>
           </div>
