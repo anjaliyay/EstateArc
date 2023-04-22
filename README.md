@@ -40,13 +40,13 @@ Sanity CMS powers the backend of EstateArc, making it simple for administrators 
 Clone the project
 
 ```bash
-  git clone https://github.com/itaintkevin/oneroof
+  git clone https://github.com/anjaliyay/EstateArc
 ```
 
 Go to the project directory
 
 ```bash
-  cd oneroof
+  cd estatearc
 ```
 
 Install dependencies
