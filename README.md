@@ -1,11 +1,12 @@
 
 # EstateArc
 
-EstateArc is a modern and elegant real estate website that allows users to easily search and filter properties by name. The website is built using Next.js, Typescript, Tailwind CSS, and Sanity CMS for content management, ensuring a seamless user experience.
+Users of EstateArc's sleek and contemporary real estate website may quickly search for and sort properties by name. A seamless user experience is provided through the usage of Next.js, Typescript, Tailwind CSS, and Sanity CMS in the development of the website.
 
-Each property has its own dedicated page, which includes detailed information about the property, including photos, location on a Google Map, and all relevant property details divided into sections. The website's intuitive UI ensures that users can easily find the information they need, whether they are browsing on a desktop or mobile device.
+Each property has a separate website with comprehensive information on it, including pictures, its location on a Google Map, and any pertinent information broken down into categories. Whether a user is surfing on a laptop or a mobile device, the website's user-friendly interface (UI) makes it easy for them to find the information they need.
 
-EstateArc's backend is powered by Sanity CMS, which makes it easy for administrators to manage and update the website's content. With its user-friendly interface, administrators can quickly add or edit property listings, update property details, and manage user accounts.
+
+Sanity CMS powers the backend of EstateArc, making it simple for administrators to maintain and change the website's content. Administrators can swiftly add or amend property listings with its user-friendly interface.
 
 
 ## Deployment 
