@@ -17,7 +17,7 @@ const Socials: FunctionComponent = () => {
         <span className="mx-[5px]">
           <GiMineralHeart size={25} />
         </span>
-        Anjali & Hruthuja
+        Anjali & Hrutuja
       </div>
       <div className="flex justify-center font-semibold my-[10px]">
         View source code on
