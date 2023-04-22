@@ -8,7 +8,7 @@ const Hero = () => {
           <div className="bg-neutral-700 py-[2px] px-[50px] -rotate-[20deg]"></div>
           <div className="bg-neutral-700 py-[2px] px-[50px] rotate-[20deg]"></div>
         </div>
-        <div className="text-[50px] mt-[15px]">OneRoof</div>
+        <div className="text-[50px] mt-[15px]">EstateArc</div>
         <p className="text-[20px] text-center font-semibold">
           Finding your next home made easy!
         </p>
