@@ -17,7 +17,7 @@ const Card2 = () => {
             <h3 className="text-[20px] font-bold mt-[10px]">Property 2</h3>
             <p className="flex mb-[10px]">
               <HiOutlineMapPin size={20} />
-              Chennai, India
+              Chennai, Tamil Nadu, India
             </p>
             <ul className="flex flex-col">
               <li className="flex justify-between py-[1px]">
