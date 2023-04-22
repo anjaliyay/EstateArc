@@ -4,7 +4,7 @@ const Contribute: NextPage = () => {
   return (
     <>
       <Head>
-        <title>OneRoof | Property</title>
+        <title>EstateArc | Property</title>
         <meta name="description" content="Property details page" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
