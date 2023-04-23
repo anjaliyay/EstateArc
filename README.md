@@ -11,7 +11,7 @@ Sanity CMS powers the backend of EstateArc, making it simple for administrators 
 
 ## Deployment 
 
-[View Project 🖥](https://oneroof.kevinpaul.xyz/)
+[View Project 🖥](https://estatearc.anjaliyay.xyz/)
 
 
 ## Technologies Used
