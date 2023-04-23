@@ -73,6 +73,6 @@ To edit Sanity Studio
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/918024642860548126/1078338923987730492/mobile_6.png)
 
-![App Screenshot](https://cdn.discordapp.com/attachments/918024642860548126/1078338923706728550/mobile_7.png)
+![App Screenshot]("C:\Users\Anjali Shah\OneDrive\Screenshot 2023-04-24 002942.png")
 
 
