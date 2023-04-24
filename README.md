@@ -68,9 +68,5 @@ To edit Sanity Studio
 ```
 
 
-## Screenshots
-
-
-![App Screenshot](https://cdn.discordapp.com/attachments/918024642860548126/1078338923987730492/mobile_6.png)
 
 
