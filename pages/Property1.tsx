@@ -316,7 +316,7 @@ const Property1 = () => {
               <li className="bg-white drop-shadow-xl rounded-lg flex justify-between text-[30px] font-bold py-[10px] px-[15px] my-[10px]">
                 <span>Rent</span>
                 <div className="text-[#228B22]">
-                  <span>Rs.40000</span>
+                  <span>Rs.35000</span>
                 </div>
               </li>
             </ul>
