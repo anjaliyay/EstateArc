@@ -48,7 +48,7 @@ const Property1 = () => {
                 Chennai, Tamil Nadu, India
               </p>
               <p className="text-[#228B22] text-2xl mt-1.5">
-                <span>Rs.45000</span>
+                <span>Rs.35000</span>
               </p>
             </div>
             <ul className="flex flex-col">
@@ -317,7 +317,7 @@ const Property1 = () => {
               <li className="bg-white drop-shadow-xl rounded-lg flex justify-between text-[30px] font-bold py-[10px] px-[15px] my-[10px]">
                 <span>Rent</span>
                 <div className="text-[#228B22]">
-                  <span>Rs.45000</span>
+                  <span>Rs.35000</span>
                 </div>
               </li>
             </ul>
